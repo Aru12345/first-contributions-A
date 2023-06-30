@@ -6,6 +6,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Nihal]
+
 - [Samaila](https://github.com/samailamalima)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
@@ -22,6 +23,7 @@
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Seth Zwerling](https://github.com/SZwerling)
   [Vinay Chitade](https://github.com/vcint)
+- [Arundahti](https://github.com/Aru12345)
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
 - [robinofautumn](https://github.com/robinofautumn)
 - [Rushil Kumar](https://github.com/Rushilkr77)
